@@ -1,0 +1,6 @@
+C:\Users\LG\Desktop\Debug_Projects\22-01-05\GDI\FTP\FTPUpload\FtpUpload\FtpUpload\bin\Debug\FtpUpload.exe.config
+C:\Users\LG\Desktop\Debug_Projects\22-01-05\GDI\FTP\FTPUpload\FtpUpload\FtpUpload\bin\Debug\FtpUpload.exe
+C:\Users\LG\Desktop\Debug_Projects\22-01-05\GDI\FTP\FTPUpload\FtpUpload\FtpUpload\bin\Debug\FtpUpload.pdb
+C:\Users\LG\Desktop\Debug_Projects\22-01-05\GDI\FTP\FTPUpload\FtpUpload\FtpUpload\obj\Debug\FtpUpload.csprojResolveAssemblyReference.cache
+C:\Users\LG\Desktop\Debug_Projects\22-01-05\GDI\FTP\FTPUpload\FtpUpload\FtpUpload\obj\Debug\FtpUpload.exe
+C:\Users\LG\Desktop\Debug_Projects\22-01-05\GDI\FTP\FTPUpload\FtpUpload\FtpUpload\obj\Debug\FtpUpload.pdb
